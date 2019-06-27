@@ -11,4 +11,9 @@ public class TestController {
 		return "成功";
 	}
 	
+	@GetMapping("/b")
+	public String assssd() {
+		return "saldmklasmd;klma;slmd;lamsdklmaskmdklmnaskodmklasnlkdaslmkl";
+	}
+	
 }
